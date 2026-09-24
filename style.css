@@ -37,3 +37,52 @@ a{
     color : green;
     text-decoration : none;
   }
+body{
+    font-family: helvetica,sans serif;
+    box-sizing:border-box;
+}
+
+header{
+    color:00ffb0;
+    
+}
+
+header > p{
+    text-align :right;
+    text-decoration :none;
+    text-color:00ffb0;
+    
+}
+h1{
+    text-align : center ;
+}
+    
+    
+    
+}
+
+ input{
+    padding :100px;
+    border: 1px solid green;
+    margin : 50px;
+}
+
+a{
+    color:00ffb0;
+    text-decoration :none;
+}
+
+
+button{
+    border-radius :50px;
+    padding:50px
+    border :1px solid green;
+    width:100%;
+    height :aut0;
+    text-align :center;
+    margin-top:100% ;
+}
+
+footer{
+    text-align : center;
+}
