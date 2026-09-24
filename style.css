@@ -1,0 +1,39 @@
+body{ 
+    font family : sans serif, helvetica;
+    box-sizing:border-flex;
+}
+input{
+    width:100%;
+    height :auto;
+    padding : 20px;
+    margin-top : 20px;
+    border : 2px solid green;
+}
+    
+.button{
+    width:90%;
+    height :auto;
+    padding : 20px;
+    margin-top : 20px;
+    border : 10px solid green;
+    text-align : center;
+    border-radius : 50px;
+    background-color:green;
+}
+button{
+    background-color:green;
+    border:none;
+}
+
+  .check input{
+  color: green;
+   display : inline ;
+   position: left;
+   background-color : black;
+    
+}
+
+a{
+    color : green;
+    text-decoration : none;
+  }
